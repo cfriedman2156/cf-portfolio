@@ -1,9 +1,6 @@
-import Image from 'next/image'
-
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import { SocialIcon } from 'react-social-icons'
-import Link from 'next/link'
 
 const projects = [
   {
@@ -42,7 +39,7 @@ const projects = [
 
 
 export const metadata = {
-  title: 'Projects',
+  title: 'CF - Projects',
   description: 'Things I’ve made trying to put my dent in the universe.',
 }
 
