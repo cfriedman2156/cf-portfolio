@@ -1,7 +1,7 @@
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 export const metadata = {
-  title: 'Resume',
+  title: 'CF - Resume',
   description: 'The professional history and qualifications of Chase Friedman.',
 }
 
