@@ -26,7 +26,7 @@ export default function Resume() {
 
         <div className="space-y-2">
           <h3 className="text-2xl font-semibold mt-4 text-zinc-200">Technical Skills</h3>
-          <p className='text-zinc-400'>Technical Languages: HTML, CSS, JavaScript, React, NextJS, NodeJS, Handlebars</p>
+          <p className='text-zinc-400'>Technical Languages: HTML, CSS, JavaScript, React, Next.js, Node.js, Handlebars.js</p>
           <p className='text-zinc-400'>Applications: Git, Jest, Insomnia, GraphQL, MongoDB, PostgreSQL, Microsoft Office, Google Suite</p>
         </div>
 
@@ -37,7 +37,7 @@ export default function Resume() {
           <div>
             <h4 className="font-semibold text-zinc-300">2 The Rescue Animal Sanctuary | <a href="https://github.com/cfriedman2156/2-the-rescue" target='_blank' className="text-yellow-500 ">GitHub</a> | <a href="https://www.2therescueanimalsanctuary.org/" target='_blank' className="text-yellow-500 ">Deployed Site</a></h4>
             <div className='text-zinc-400'>
-              <p>An animal sanctuary website, with details and all animals listed, donate, sponsor and shop options integrated with Stripe.</p>
+              <p>An animal sanctuary website featuring animal profiles, donation, sponsorship, and shop functionalities integrated with Stripe.</p>
               <p>Core responsibilities: Solo project, created all JS, styling, server-side, client-side, Multer, and Stripe integration.</p>
               <p>Tools / languages used: Next.js, Tailwind, MongoDB, Multer, Stripe, Resend</p>
             </div>
@@ -46,7 +46,7 @@ export default function Resume() {
           <div>
             <h4 className="font-semibold mt-2 text-zinc-300">FlowSense Solutions | <a href="https://github.com/cfriedman2156/flowsense" target='_blank' className="text-yellow-500 ">GitHub</a> | <a href="https://www.flowsensesolutions.com/" target='_blank' className="text-yellow-500 ">Deployed Site</a></h4>
             <div className='text-zinc-400'>
-              <p>Website that lays out all services, case studies, testimonials for FlowSense solutions, and provides a functional contact section. </p>
+              <p>A business services website detailing services, case studies, and client testimonials, with a functional contact section.</p>
               <p>Core responsibilities: Solo project, created all JS, styling, Sanity and Stripe integration.</p>
               <p>Tools / languages used: Next.js, Tailwind, Sanity, Resend</p>
             </div>
@@ -67,7 +67,7 @@ export default function Resume() {
           <h4 className="font-semibold text-zinc-300 mt-2">PlayPoint | <a href="https://github.com/cfriedman2156/playpoint" target='_blank' className="text-yellow-500 ">GitHub</a> | <a href="https://playpoint.onrender.com/" target='_blank' className="text-yellow-500 ">Deployed Site</a></h4>
           <div className='text-zinc-400'>
             <p>A game rating app where you can add friends, see and share their reviews.</p>
-            <p>Core responsibilities: Designed and implemented the page using Tailwind CSS, DaisyUI, and Handlebars. Made backend routes for Sequelize database.</p>
+            <p>Core responsibilities: Designed and implemented the page using Tailwind CSS, DaisyUI, and Handlebars. Developed backend routes for a Sequelize database.</p>
             <p>Tools / languages used: Node, Handlebars, Insomnia, PostgreSQL</p>
           </div>
 
@@ -78,8 +78,8 @@ export default function Resume() {
         <h4 className="font-bold mt-4 text-zinc-300">Content Creator</h4>
         <p className='text-zinc-300'>Self-Employed, Los Angeles, CA, August 2022 - Present</p>
         <div className='text-zinc-400'>
-          <p>Documented and shared the journey of full recovery from a C4-C7
-            spinal cord injury. Built a substantial and engaged follower base of
+          <p>Documented and shared the recovery journey from a C4-C7 spinal cord injury. 
+            Built a substantial and engaged follower base of
             over 500,000. Negotiated brand deals and provided personalized
             consultation to spinal cord injury patients.</p>
           <p>Key Accompllishments</p>
@@ -116,7 +116,7 @@ export default function Resume() {
             <p>UC Berkeley Extension, Los Angeles, CA</p>
             <p>Graduated June 2024</p>
             <p>An intensive program focused on gaining technical programming skills in
-              HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handlebars.js, and ReactJS.</p>
+              HTML5, CSS3, JavaScript, JQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handlebars.js, and React.</p>
           </div>
 
           <p className='font-bold text-zinc-300 mt-4'>Bachelor of Arts in Film and Media Studies</p>
