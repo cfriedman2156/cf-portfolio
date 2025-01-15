@@ -27,14 +27,14 @@ const projects = [
     link: { href: 'https://ready-check.onrender.com/', label: 'ready-check.onrender.com' },
     githubLink: { href: 'https://github.com/jasongalas/ready-check', label: 'github.com/ready-check' },
   },
-  {
-    name: 'PlayPoint',
-    description:
-      'A gaming review app where you can search for any game, write reviews, update reviews, add friends and see their reviews. *Deployed via Render, please give it time to load',
-    features: 'Node.js, Express.js, Handlebars.js, PostgreSQL, Sequelize, Tailwind',
-    link: { href: 'https://playpoint.onrender.com/signup', label: 'playpoint.onrender.com' },
-    githubLink: { href: 'https://github.com/cfriedman2156/playpoint', label: 'github.com/playpoint' },
-  },
+  // {
+  //   name: 'PlayPoint',
+  //   description:
+  //     'A gaming review app where you can search for any game, write reviews, update reviews, add friends and see their reviews. *Deployed via Render, please give it time to load',
+  //   features: 'Node.js, Express.js, Handlebars.js, PostgreSQL, Sequelize, Tailwind',
+  //   link: { href: 'https://playpoint.onrender.com/signup', label: 'playpoint.onrender.com' },
+  //   githubLink: { href: 'https://github.com/cfriedman2156/playpoint', label: 'github.com/playpoint' },
+  // },
 ]
 
 
